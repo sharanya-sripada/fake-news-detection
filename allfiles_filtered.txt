@@ -1,0 +1,16 @@
+870dcc7269e39c0bf6df7f667e192d4371069e0b
+339761520e7465eb0ec3068dd9ac11b6647583ac 
+d082b12742b7045e76e14cffd2bf42ce9a2ecca2 Fake-News-Detective-master
+674a3977575308ad8cb419523184022a5fe37041 Fake-News-Detective-master/AI_Phase1.pdf
+79f691a7ce2a170ed9cfbc93d9857b41d803954e Fake-News-Detective-master/AI_Phase2.pdf
+424e6098965d2dc3d44cea55f04fe1ad836ccb62 Fake-News-Detective-master/AI_Phase3.pdf
+d73602649969d3b88175957846f4d2eb1ec5d5c6 Fake-News-Detective-master/AI_Phase4.pdf
+ff47ebf51db252c4674b5ffaf4b8b424b33fb99a Fake-News-Detective-master/AI_Phase5.pdf
+44d4db3be0454b297f1bf40831b3786f2ab8f48e Fake-News-Detective-master/dataset
+d7058b4f5534fdee5620d1503e79237b82917123 Fake-News-Detective-master/dataset/Fake.csv
+03805733ab6dea2d4666a05bacc81d40fc6e639d Fake-News-Detective-master/dataset/True.csv
+3f70778826806369f5b07e140134fb83ed54f8dc Fake-News-Detective-master/docs
+e5a30951b14131069dee6b3f876a8eced5aa7807 Fake-News-Detective-master/docs/fake-news-detective.png
+c9c99f2d877f99c2ab65c9bd366b0c2a9a614543 Fake-News-Detective-master/fakenews_detection.ipynb
+b19c58b073dcedc197e960acb5f469bd4424ba29 Fake-News-Detective-master/LICENSE
+01a84681fc1b19f79859fc1aa47c3fc2c12ea4b8 Fake-News-Detective-master/README.md
