@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Happy coding! If you have any questions or need assistance, please feel free to reach out to us.
 
-Project maintained by [Vijai Suria](https://github.com/sharanya-sripada).
+Project maintained by [S Laxmi Sharanya](https://github.com/sharanya-sripada).
