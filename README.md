@@ -73,7 +73,7 @@ To run this project on your local machine, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/vijaisuria/Fake-News-Detective.git
+   git clone https://github.com/sharanya-sripada/Fake-News-Detective.git
    ```
 
 2. Install the necessary dependencies:
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Happy coding! If you have any questions or need assistance, please feel free to reach out to us.
 
-Project maintained by [Vijai Suria](https://github.com/vijaisuria).
+Project maintained by [Vijai Suria](https://github.com/sharanya-sripada).
